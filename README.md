@@ -1,2 +1,2 @@
-# practica-git-gpi-chareca-delaconcepcion
+# Practica Git | GPI | Chareca - De la Concepción
 Trabajo GPI | Danel de la Concepción, Nicolás Chareca
